@@ -37,6 +37,9 @@
             "name": "Jane",
             "sirname": "Doe",
             "email": "user@email.com",
+            "issuedBook": "4",
+            "issuedDate": "01/07/2021",
+            "returnDate": "01/10/2021",
             "subscriptionType": "Premium",
             "subscriptionDate": "01/01/2022"
         }
